@@ -2,7 +2,7 @@ Author: Andrea Tongsak
 The submission tongsaka_program3.zip is found in Canvas.
 To compile and create an executable named smallsh,
 
-gcc --std=gnu99 -o smallsh main.c
+gcc --std=gnu99 -o smallsh smallsh.c
 smallsh
 
 To run it with the test script....
